@@ -32,7 +32,7 @@ This project applies a professional and modular **data cleaning pipeline** to a 
 
 | Raw Excel                               | Cleaned Excel                          |
 |----------------------------------------|----------------------------------------|
-| ![Before](assets/before_excel.png)     | ![After](assets/after_excel.png)       |
+| ![Before](before_excel.png)     | ![After](after_excel.png)       |
 
 ---
 ## 🧼 How to Use
