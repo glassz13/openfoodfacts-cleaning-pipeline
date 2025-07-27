@@ -20,9 +20,9 @@ This project applies a professional and modular **data cleaning pipeline** to a 
 
 > Full cleaning report with log messages and transformations:
 
-<img src="cleaning_log_1.png" width="700"/>
+<img src="assets/cleaning_log_1.png" width="700"/>
 
-<img src="cleaning_log_2.png" width="700"/>
+<img src="assets/cleaning_log_2.png" width="700"/>
 
 ---
 
@@ -32,7 +32,7 @@ This project applies a professional and modular **data cleaning pipeline** to a 
 
 | Raw Excel                               | Cleaned Excel                          |
 |----------------------------------------|----------------------------------------|
-| ![Before](before_excel.png)     | ![After](after_excel.png)       |
+| ![Before](assets/before_excel.png)     | ![After](assets/after_excel.png)       |
 
 ---
 ## 🧼 How to Use
