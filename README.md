@@ -20,9 +20,9 @@ This project applies a professional and modular **data cleaning pipeline** to a 
 
 > Full cleaning report with log messages and transformations:
 
-<img src="assets/cleaning_log_1.png" width="700"/>
+<img src="cleaning_log_1.png" width="700"/>
 
-<img src="assets/cleaning_log_2.png" width="700"/>
+<img src="cleaning_log_2.png" width="700"/>
 
 ---
 
@@ -35,13 +35,6 @@ This project applies a professional and modular **data cleaning pipeline** to a 
 | ![Before](assets/before_excel.png)     | ![After](assets/after_excel.png)       |
 
 ---
-
-## 🧠 Why 100k Rows?
-
-The full dataset is **too large (multiple GBs)** for lightweight processing. So we extract the first 100,000 rows, keep only useful columns, and focus on cleaning the core content.
-
----
-
 ## 🧼 How to Use
 
 ```bash
